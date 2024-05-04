@@ -1,6 +1,6 @@
 [![chat.gistudy.net](https://img.shields.io/badge/-LobeChat-DE2910?style=flat-square&logo=china&logoColor=white)](https://chat.gistudy.net/welcome)
 
-This repostory use github actions.
+This repository use github actions.
 
 <div align="center"><a name="readme-top"></a>
 
